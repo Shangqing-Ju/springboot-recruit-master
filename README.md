@@ -1,4 +1,4 @@
-## Spring Boot + Thymeleaf 实现的任务发布网站
+## Spring Boot + Thymeleaf
 
 - Role:
 - Administrator.
